@@ -5,7 +5,7 @@ import pandas as pd
 st.markdown("<h1 style='text-align: center; color: black;'>MY DATA APP</h1>", unsafe_allow_html=True)
 
 st.markdown("""
-This app allows you to download scraped data on motocycles from expat-dakar 
+This app allows you to download scraped data on motocycles from the site expa-DAKAR 
 * **Python libraries:** base64, pandas, streamlit
 * **Data source:** [Expat-Dakar](https://www.expat-dakar.com/).
 """)
